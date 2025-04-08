@@ -114,5 +114,3 @@ exports.deleteuser = async (req, res, next) => {
     });
   }
 };
-// [FILEPATH] controllers/userController.js [/FILEPATH]
-// [FILEPATH] controllers/userController.js [/FILEPATH]
